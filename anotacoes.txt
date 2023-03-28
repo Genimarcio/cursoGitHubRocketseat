@@ -1,0 +1,1 @@
+git pull - baixa todas as atualizações que estão disponiveis no repositório online.
